@@ -3,6 +3,7 @@
 This project was built for the purposes of the course "Advanced Topics in Database Systems" taught in Electrical and Computer Engineering School - National Technical University of Athens
 
 Contributors:
+
 Georgios Kitsios (03119801)
 
 Dimosthenis Athanasiou (03120041)
